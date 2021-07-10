@@ -167,23 +167,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: MATLAB/GNU Octave
+        level: 100%
+        
+      - name: Python
         level: 95%
+        
+      - name: C++
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Git
+        level: 90%
+
+      - name: Project Jupyter
+        level: 90%
+
+      - name: SolidWorks
+        level: 100%
+        
+      - name: Tecplot
+        level: 100%
+        
+      - name: Photoshop
+        level: 90%
+        
+      - name: Photoshop
+        level: 90%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
