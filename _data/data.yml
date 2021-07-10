@@ -40,13 +40,13 @@ sidebar:
       - item: Mountain Climbing
         link:
 
-      - item: Biking
-        link:
-
       - item: Skateboarding
         link:
 
       - item: Kayaking
+        link:
+
+      - item: Biking
         link:
 
 career-profile:
@@ -54,9 +54,9 @@ career-profile:
     summary: |
       Aspiring Computational Scientist currently studying Ph.D. in Mechanical Engineering with more than ten years of programming experience in C++, Python, and MATLAB. Proficient in computational methods in data science, optimization applications, and applied mathematics.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Doctor of Philosophy (Ph.D.) in Mechanical Engineering, GPA: 4.0/4.0
+      university: The University of British Columbia
+      time: Sep 2019 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +65,20 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Master of Science (M.Sc.) in Aerodynamics, GPA: 4.0/4.0
+      university: Sharif University of Technology
+      time: Sep 2014 - Aug 2016
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Bachelor of Science (B.Sc.) in Aerospace Engineering, GPA: 3.9/4.0
+      university: Khajeh Nasir Toosi University of Technology
+      time: Sep 2010 - Aug 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
