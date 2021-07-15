@@ -54,7 +54,7 @@ career-profile:
     summary: |
       Aspiring Computational Scientist currently studying Ph.D. in Mechanical Engineering with more than ten years of programming experience in C++, Python, and MATLAB. Proficient in computational methods in data science, optimization applications, and applied mathematics.
 education:
-    - degree: Doctor of Philosophy (Ph.D.) in Mechanical Engineering, GPA: 4.0/4.0
+    - degree: Doctor of Philosophy (Ph.D.) in Mechanical Engineering, GPA: 4.0 out of 4.0
       university: The University of British Columbia
       time: Sep 2019 - Present
       details: |
@@ -65,7 +65,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Master of Science (M.Sc.) in Aerodynamics, GPA: 4.0/4.0
+    - degree: Master of Science (M.Sc.) in Aerodynamics, GPA: 4.0 out of 4.0
       university: Sharif University of Technology
       time: Sep 2014 - Aug 2016
       details: |
