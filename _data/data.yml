@@ -27,7 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English TEST
+      - idiom: English
         level: Professional
 
       - idiom: Kurdish
@@ -94,28 +94,26 @@ experiences:
       details: |
         - Developed object-oriented software for stability analysis and improvement of different computational methods using C++, Python, and Jenkins.
         - Created a framework for eigenanalysis of the solution Jacobian and mesh optimization using PETSc and SLEPc, enabling current solvers to achieve stable and more reliable results.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Teaching Assistant
+      time: Sep 2019 - Present
+      company: The University of British Columbia, Vancouver, BC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Conducted tutorials, designed and graded assignments, and provided laboratory guidance for courses including Aerodynamics of Aircraft, Fluid Dynamics, and Thermodynamics.
+    - role: Research Assistant
+      time: Sep 2014 -- Aug 2016
+      company: Sharif University of Technology, Tehran, Iran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Implemented reconfigurable hardware programming using C++ and Vivado Design Suite for hardware design and acceleration of computational problems.
+    - role: Teaching Assistant
+      time: Sep 2014 -- Aug 2016
+      company: Sharif University of Technology, Tehran, Iran
+      details: |
+        - Conducted tutorials, designed and graded assignments, and provided laboratory guidance for courses including  Computer Programming, Computational Fluid Dynamics, Computer Aided Design, and Seminar.
+    - role: Research Assistant
+      time: Sep 2013 -- Aug 2014
+      company: Khajeh Nasir Toosi University of Technology, Tehran, Iran
+      details: |
+        - Developed MATLAB software for computational speed-up of fluid and heat transfer simulation.
 projects:
     title: Projects
     intro: >
