@@ -5,3 +5,8 @@ This project implements a dynamic user interface with interesting layouts and a 
 
 ![Alt Text](f1.jpg)
 
+## Solar System
+This 3D simulation starts from the midnight of Feb 20, 2013. It is based on Newton's second law of motion and the gravity between all the planets are taken into account. So if for example we multiply the mass of earth by 10,000 the system will be changed in a horrific way as seen on the bottom image.
+
+![Alt Text](f2.jpg)
+
