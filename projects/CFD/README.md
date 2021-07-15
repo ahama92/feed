@@ -14,3 +14,9 @@ This problem is solved in the domain over a bump using a finite volume method. T
 This problem is solved using a finite difference method. Here the flow is considered quasi 1-dimensional, inviscid and compressible. The fluid is flowing through a [Shubin nozzle](https://link.springer.com/chapter/10.1007%2F3-540-11948-5_44) with a known total pressure. The flow adapts to a known back pressure and there can be shocks in the flow field. The geometry of the nozzle and the scaled pressure, mach number and density plots as well as the exact solution for a supersonic inlet test case are shown here.
 
 ![Alt Text](e3.jpg)
+
+## Grid Generation
+Generating the numerical grid is the first step for solving any CFD problem. The unstructured case was generated implementing the [Advancing Front](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.1620372103) method. The following image illustrates a structured mesh that was generated using a set of hyperbolic PDEs.
+
+![Alt Text](e4.jpg)
+
