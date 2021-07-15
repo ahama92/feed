@@ -58,35 +58,17 @@ education:
       university: The University of British Columbia
       time: Sep 2019 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
     - degree: Master of Science (M.Sc.) in Aerodynamics, GPA 4.0/4.0
       university: Sharif University of Technology
       time: Sep 2014 - Aug 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
     - degree: Bachelor of Science (B.Sc.) in Aerospace Engineering, GPA 3.9/4.0
       university: Khajeh Nasir Toosi University of Technology
       time: Sep 2010 - Aug 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
 experiences:
     - role: Research Assistant
       time: Sep 2019 - Present
@@ -119,9 +101,9 @@ projects:
     intro: >
       A selected list of my projects are presented here.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SOLIDWORKS
+        link: "https://github.com/ahama92/online-cv/tree/master/projects/Solidworks"
+        tagline: "The CAD projects completed using SOLIDWORKS."
 
       - title: Aerodynamics
         link: "https://github.com/ahama92/aerodynamics"
