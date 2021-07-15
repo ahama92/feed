@@ -144,14 +144,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A selected list of my publications is presented here.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Modeling and Simulation Speed-Up of Plasma Actuators Implementing Reconfigurable Hardware
+        link: "https://arc.aiaa.org/doi/abs/10.2514/1.J056382"
+        authors: A. Ebrahimi, M. Zandsalimy
+        conference: AIAA Journal, pp. 1-12, Jun 2018
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
