@@ -10,3 +10,7 @@ This 3D simulation starts from the midnight of Feb 20, 2013. It is based on Newt
 
 ![Alt Text](f2.jpg)
 
+## 3D Pendulum
+The simulation of single and double pendulums. The number of parts can be chosen in 2D mode where you can choose as many pendulums connected to each other as you like.
+
+![Alt Text](f3.jpg)
