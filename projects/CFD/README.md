@@ -5,7 +5,12 @@ Backward Facing Step is a benchmark problem for validating such CFD methods. A f
 
 ![Alt Text](e1.jpg)
 
-## Compressible Inviscid Flow 
+## 2D Compressible Inviscid Flow 
 This problem is solved in the domain over a bump using a finite volume method. The flow is considered inviscid and compressible, so there will be shocks in the flow field for a supersonic inlet flow, as well as a transonic inlet. [Jameson's method](https://www.sciencedirect.com/science/article/abs/pii/009630038390019X) is used to solve the governing equations with a 4th order Runge-Kutta method for time integration. Here we can see the geometry of the bump and the solution to inlet Mach numbers of 2.0 and 0.85 for the case of supersonic and transonic flows respectively.
 
 ![Alt Text](e2.jpg)
+
+## 1D Compressible Inviscid Flow
+This problem is solved using a finite difference method. Here the flow is considered quasi 1-dimensional, inviscid and compressible. The fluid is flowing through a [Shubin nozzle](https://link.springer.com/chapter/10.1007%2F3-540-11948-5_44) with a known total pressure. The flow adapts to a known back pressure and there can be shocks in the flow field. The geometry of the nozzle and the scaled pressure, mach number and density plots as well as the exact solution for a supersonic inlet test case are shown here.
+
+![Alt Text](e3.jpg)
