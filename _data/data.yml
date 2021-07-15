@@ -110,7 +110,7 @@ projects:
         tagline: "This projects holds different aerodynamics analysis codes."
         
       - title: MATLAB
-        link: "https://github.com/ahama92/online-cv/tree/master/projects/Solidworks"
+        link: "https://github.com/ahama92/online-cv/tree/master/projects/MATLAB"
         tagline: "Different projects implemented using MATLAB programming language."
         
       - title: SOLIDWORKS
