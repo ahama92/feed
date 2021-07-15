@@ -101,6 +101,10 @@ projects:
     intro: >
       A selected list of my projects are presented here.
     assignments:
+      - title: Computational Fluid Dynamics
+        link: "https://github.com/ahama92/online-cv/tree/master/projects/CFD"
+        tagline: "Different Computational Fluid Dynamics Solvers developed in C++."
+        
       - title: SOLIDWORKS
         link: "https://github.com/ahama92/online-cv/tree/master/projects/Solidworks"
         tagline: "The CAD projects completed using SOLIDWORKS."
