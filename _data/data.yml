@@ -197,6 +197,9 @@ skills:
       - name: Tecplot
         level: 100%
         
+      - name: ANSYS Fluent
+        level: 90%
+        
       - name: Photoshop
         level: 90%
 
