@@ -15,10 +15,6 @@ This device is used during stem cell research and is a main container for cells 
 
 ![Alt Text](d2.jpg)
 
-##  Miscellaneous
-
-![Alt Text](d3.jpg)
-
 ## BMW concept
 
 ![Alt Text](b1.jpg)
@@ -38,3 +34,7 @@ This device is used during stem cell research and is a main container for cells 
 ## Chevrolet Camaro
 
 ![Alt Text](b5.jpg)
+
+##  Miscellaneous
+
+![Alt Text](d3.jpg)
