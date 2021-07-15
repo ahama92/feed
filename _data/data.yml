@@ -174,16 +174,22 @@ skills:
         level: 95%
         
       - name: C++
-        level: 90%
+        level: 95%
+        
+      - name: Scikit-learn
+        level: 80%
+        
+      - name: pandas
+        level: 80%
 
       - name: Linux
-        level: 90%
+        level: 80%
 
       - name: Git
         level: 90%
 
       - name: Project Jupyter
-        level: 90%
+        level: 100%
 
       - name: SolidWorks
         level: 100%
