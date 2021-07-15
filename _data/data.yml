@@ -104,14 +104,18 @@ projects:
       - title: Computational Fluid Dynamics
         link: "https://github.com/ahama92/online-cv/tree/master/projects/CFD"
         tagline: "Different Computational Fluid Dynamics Solvers developed in C++."
-        
-      - title: SOLIDWORKS
-        link: "https://github.com/ahama92/online-cv/tree/master/projects/Solidworks"
-        tagline: "The CAD projects completed using SOLIDWORKS."
 
       - title: Aerodynamics
         link: "https://github.com/ahama92/aerodynamics"
         tagline: "This projects holds different aerodynamics analysis codes."
+        
+      - title: MATLAB
+        link: "https://github.com/ahama92/online-cv/tree/master/projects/Solidworks"
+        tagline: "Different projects implemented using MATLAB programming language."
+        
+      - title: SOLIDWORKS
+        link: "https://github.com/ahama92/online-cv/tree/master/projects/Solidworks"
+        tagline: "The CAD projects completed using SOLIDWORKS."
 
 publications:
     title: Publications
