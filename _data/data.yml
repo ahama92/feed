@@ -120,6 +120,10 @@ projects:
       - title: Android
         link: "https://github.com/ahama92/online-cv/tree/master/projects/Android"
         tagline: "Android games and apps."
+        
+      - title: Photoshop
+        link: "https://github.com/ahama92/online-cv/tree/master/projects/Photoshop"
+        tagline: "Photo editing and digital art."
 
 publications:
     title: Publications
