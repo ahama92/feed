@@ -116,6 +116,10 @@ projects:
       - title: SOLIDWORKS
         link: "https://github.com/ahama92/online-cv/tree/master/projects/Solidworks"
         tagline: "The CAD projects completed using SOLIDWORKS."
+        
+      - title: Android
+        link: "https://github.com/ahama92/online-cv/tree/master/projects/Android"
+        tagline: "Android games and apps."
 
 publications:
     title: Publications
