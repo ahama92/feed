@@ -151,15 +151,20 @@ publications:
         authors: A. Ebrahimi, M. Zandsalimy
         conference: AIAA Journal, pp. 1-12, Jun 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Evaluation of FPGA hardware as a new approach for accelerating the numerical solution of CFD problems
+        link: "https://ieeexplore.ieee.org/document/7933174"
+        authors: A. Ebrahimi, M. Zandsalimy
+        conference: IEEE Access, Vol. 5, pp. 9717-9727, 2017
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: A new approach for the speed up of numerical solution of steady and unsteady flows using FPGA hardware
+        link: "http://sjme.journals.sharif.edu/article_6391_en.html"
+        authors: A. Ebrahimi, M. Zandsalimy
+        conference: Sharif Mechanical Engineering, Vol. 34, No. 1, pp. 97-104, 2018
+        
+      - title: Evaluation of FPGA hardware as a new approach for accelerating the numerical solution of the Laplace problem
+        link: "http://mjms.modares.ac.ir/article-15-2019-en.html"
+        authors: A. Ebrahimi, M. Zandsalimy
+        conference: Modares Mechanical Engineering, Vol. 17, No. 1, pp. 67-74, 2017
 
 skills:
     title: Skills &amp; Proficiency
