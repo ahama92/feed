@@ -170,6 +170,52 @@ skills:
       - name: C++
         level: 95%
         
+      - name: FPGA
+        level: 95%
+        
+      - name: Scikit-learn
+        level: 80%
+        
+      - name: pandas
+        level: 80%
+
+      - name: Linux
+        level: 80%
+
+      - name: Git
+        level: 90%
+
+      - name: Project Jupyter
+        level: 100%
+
+      - name: SolidWorks
+        level: 100%
+        
+      - name: Tecplot
+        level: 100%
+        
+      - name: ANSYS Fluent
+        level: 90%
+        
+      - name: Photoshop
+        level: 90%
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: MATLAB/GNU Octave
+        level: 100%
+        
+      - name: Python
+        level: 95%
+        
+      - name: C++
+        level: 95%
+        
+      - name: FPGA
+        level: 95%
+        
       - name: Scikit-learn
         level: 80%
         
